@@ -35,5 +35,6 @@ public class Lesson7{
             System.out.println("入力が正しくありません");
             break;
       }
+      scanner.close();
    }
 }
