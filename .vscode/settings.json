@@ -9,5 +9,10 @@
                 "chcp 65001"
             ],
         }
-    }
+    },
+    "java.project.sourcePaths": [
+        "Step5/Lesson1",
+        "Step2",
+        "Step5/Lesson14"
+    ]
 }
