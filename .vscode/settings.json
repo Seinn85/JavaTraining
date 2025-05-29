@@ -11,6 +11,7 @@
         }
     },
     "java.project.sourcePaths": [
+        "Step8/Lesson9",
         "Step8/Lesson8",
         "Step8/Lesson7",
         "Step8/Lesson6",
@@ -18,6 +19,11 @@
         "Step8/Lesson4",
         "Step8/Lesson3",
         "Step8/Lesson2",
+        "Step8/Lesson14",
+        "Step8/Lesson13",
+        "Step8/Lesson12",
+        "Step8/Lesson11",
+        "Step8/Lesson10",
         "Step8/Lesson1",
         "Step7/Lesson9",
         "Step7/Lesson8",
@@ -62,6 +68,6 @@
         "Step6/Lesson3",
         "Step6/Lesson2",
         "Step6/Lesson1",
-        "Step8/Lesson9"
+        "Step8/Lesson15"
     ]
 }
