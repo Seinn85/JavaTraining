@@ -1,3 +1,0 @@
-interface Tea{
-    void prepare();
-}

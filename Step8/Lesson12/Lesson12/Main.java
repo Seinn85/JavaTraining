@@ -10,5 +10,9 @@ public class Main {
         // SMS通知でグループ向け
         Notification smsToGroup = new SMSNotification(new GroupNotification());
         smsToGroup.notify("Meeting at 3 PM.");
+
+        // App通知でグチーム向け
+        Notification appToTeam = new AppNotification(new TeamNotification());
+        appToTeam.notify("Hello Team!");
     }
 }
